@@ -1,0 +1,1 @@
+console.log('Litbuy Spreadsheet Germany loaded');
